@@ -2,8 +2,12 @@
 
 Digitales Zählsystem für Holzbretter am Förderband. Entwickelt als Abschlussprojekt zum Ende des ersten Halbjahres meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung am BFW Schömberg (Sommer 2026).
 
-## Ausgangssituation
+## Dokumente
 
+- [Projektskizze](Projektskizze.pdf)
+- [Projektdokumentation](Projektdokumentation.pdf)
+
+## Ausgangssituation
 Bisher wurden durchlaufende Holzbretter von Hand mit Zettel und Stift gezählt. Das kostete Zeit und war fehleranfällig. Ziel war ein System, das automatisch zählt, den aktuellen Stand anzeigt und die Werte für spätere Auswertungen speichert.
 
 ## Funktionsumfang
